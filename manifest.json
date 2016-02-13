@@ -1,0 +1,17 @@
+{
+    "name": "ushare.naan",
+    "description": "description of UShare",
+    "architecture": "all",
+    "title": "UShare",
+    "hooks": {
+        "UShare": {
+            "apparmor": "UShare.apparmor",
+            "desktop":  "UShare.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Abdul Hannan <raohannan1@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

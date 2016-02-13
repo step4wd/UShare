@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=UShare
+Exec=webapp-container --inspector ./www/index.html
+Icon=UShare.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
